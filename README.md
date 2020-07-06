@@ -7,3 +7,4 @@
 设计模式-designPatterns
     single-懒汉单例模式
     singleII-饿汉单例模式
+    Observer-发布订阅者模式
