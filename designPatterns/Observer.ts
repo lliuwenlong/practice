@@ -1,3 +1,6 @@
+/**
+ * @file 观察者模式
+ */
 class Observer {
     private message: object =  {}
     
