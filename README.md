@@ -9,3 +9,4 @@
     singleII-饿汉单例模式
     Observer-发布订阅者模式
     proxy-代理模式
+    visitor-访问者模式
